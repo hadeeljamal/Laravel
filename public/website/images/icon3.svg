@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="icon3" transform="translate(-400 -54)">
+    <rect id="Rectangle_1689" data-name="Rectangle 1689" width="44" height="44" rx="22" transform="translate(400 54)" fill="#fd1f4a" opacity="0.05"/>
+    <g id="ico_24_gestures_emotions_slightly_smilling" data-name="ico / 24 / gestures &amp; emotions / slightly_smilling" transform="translate(410 64)">
+      <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="#fd1f4a" opacity="0"/>
+      <path id="Icon_color" data-name="Icon color" d="M10,20A10,10,0,1,1,20,10,10.011,10.011,0,0,1,10,20ZM10,2a8,8,0,1,0,8,8A8.009,8.009,0,0,0,10,2Zm0,13.009A5.5,5.5,0,0,1,5.54,12.72a.489.489,0,0,1-.08-.39A.512.512,0,0,1,5.7,12l.87-.509a.509.509,0,0,1,.65.13,3.48,3.48,0,0,0,5.56,0,.509.509,0,0,1,.65-.13L14.3,12a.513.513,0,0,1,.24.33.492.492,0,0,1-.08.39A5.5,5.5,0,0,1,10,15.008ZM14.5,9h-3a.5.5,0,0,1-.5-.5V8a2,2,0,0,1,4,0v.5A.5.5,0,0,1,14.5,9Zm-6,0h-3A.5.5,0,0,1,5,8.5V8A2,2,0,1,1,9,8v.5A.5.5,0,0,1,8.5,9Z" transform="translate(2 2)" fill="#fd1f4a"/>
+    </g>
+  </g>
+</svg>

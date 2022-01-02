@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="icon2" transform="translate(-400 -54)">
+    <rect id="Rectangle_1689" data-name="Rectangle 1689" width="44" height="44" rx="22" transform="translate(400 54)" fill="#fd1f4a" opacity="0.05"/>
+    <g id="ico_24_premium_diamond_outlined" data-name="ico / 24 / premium / diamond_outlined" transform="translate(410 64)">
+      <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="#fd1f4a" opacity="0"/>
+      <path id="Icon_color" data-name="Icon color" d="M10,18H10a.994.994,0,0,1-.766-.36L.23,6.78A1,1,0,0,1,0,6.14v-.3a1,1,0,0,1,.26-.68L4.41.65A2.009,2.009,0,0,1,5.88,0h8.24a2.006,2.006,0,0,1,1.47.65l4.15,4.51a1,1,0,0,1,.26.68v.3a1,1,0,0,1-.229.64l-9,10.86A1,1,0,0,1,10,18ZM6.266,6a1,1,0,0,1,.954.7L10,15.46,17.79,6H11.63a.5.5,0,0,1-.37-.841L14.12,2H5.88L2.21,6H6.266Z" transform="translate(2 3)" fill="#fd1f4a"/>
+    </g>
+  </g>
+</svg>

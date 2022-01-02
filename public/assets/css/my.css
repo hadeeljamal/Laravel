@@ -1,0 +1,56 @@
+body {
+    background-color: #fff;
+}
+/* Start Register page */
+input {
+    margin-bottom: 10px;
+}
+label {
+    font-size: 16px !important;
+    font-weight: bold !important;
+    color: #2874f0 !important;
+}
+/* End Register page */
+.table-responsive table thead  tr,.fee table thead  tr{
+    background-color: #2874f0;
+    color:#fff;
+}
+.dropdown-menu{
+    padding: 10px 20px 0px;
+}
+@media (max-width:768px) {
+    .dropdown-menu{
+        /* padding: 10px 20px 0px; */
+        width: 30px;
+    }
+}
+.dropdown-menu ul li {
+    margin-bottom: 10px;
+    color:#2874f0;
+}
+.dropdown-menu ul li i,.dropdown-menu ul li a { color:#2874f0;}
+/* Start Payment  */
+.paymentName {
+    text-align: center;
+    color: #2874f0;
+}
+@media (max-width: 768px) {
+    .paymentName{
+        padding-top: 40px;
+    }
+}
+/* End Payment  */
+
+/* ********** */
+
+@media (min-width: 992px) {
+    .header-fixed.subheader-fixed.subheader-enabled .wrapper {
+        padding-top: 40px;
+    }
+}
+.card-body {
+    padding: 5px 10px;
+}
+.table-margin  {
+ margin-top:  20px;
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon1" transform="translate(-400 -54)">
+    <rect id="Rectangle_1689" data-name="Rectangle 1689" width="44" height="44" rx="22" transform="translate(400 54)" fill="#fd1f4a" opacity="0.05"/>
+    <g id="ico_24_premium_top_security_outlined" data-name="ico / 24 / premium / top_security_outlined" transform="translate(410 64)" clip-path="url(#clip-path)">
+      <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="#fd1f4a" opacity="0"/>
+      <path id="Icon_color" data-name="Icon color" d="M9.6,22H8.4A2.015,2.015,0,0,1,7.17,21.58L3.09,18.4A8,8,0,0,1,0,12.09V6.24A3.017,3.017,0,0,1,.88,4.12L4.41.59A2.017,2.017,0,0,1,5.83,0h6.34a2.017,2.017,0,0,1,1.42.59l3.53,3.53A3.017,3.017,0,0,1,18,6.24v5.85a8,8,0,0,1-3.09,6.31L10.83,21.58A2.013,2.013,0,0,1,9.6,22ZM5.83,2h0L2.29,5.54a.993.993,0,0,0-.29.7v5.85a5.962,5.962,0,0,0,2.32,4.73L8.4,20H9.6l4.08-3.15A5.961,5.961,0,0,0,16,12.12V6.24a.993.993,0,0,0-.29-.7L12.17,2ZM11.5,14a.5.5,0,0,1-.254-.07L9,12.56,6.74,13.93a.5.5,0,0,1-.254.07A.5.5,0,0,1,6,13.38l.67-2.541-2-1.7a.51.51,0,0,1,.29-.88l2.6-.2,1-2.43a.5.5,0,0,1,.92,0l1,2.43,2.6.2a.51.51,0,0,1,.3.88l-2,1.7.61,2.541A.5.5,0,0,1,11.5,14Z" transform="translate(3 1)" fill="#fd1f4a"/>
+    </g>
+  </g>
+</svg>
